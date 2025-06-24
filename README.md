@@ -1,2 +1,4 @@
 # DART-Diagnostics-Julia
-Julia translation of the MATLAB diagnostic tools for the Data Assimilation Research Testbed
+This repository translates the diagnostic MATLAB code of the [Data Assimilation Research Testbed](https://github.com/NCAR/DART) to Julia. Still a WIP!
+
+
